@@ -1,6 +1,6 @@
 """
 ClimaCast — Application de Prevision Meteorologique
-Projet 8 · B3 IABD · College de Paris Superieur · 2025/2026
+Projet 8 · B3 IABD ·  · 2025/2026
 Lancer : streamlit run app.py
 """
 
