@@ -1,5 +1,5 @@
 # ClimaCast — Application de Prévision Météo
-### Projet 8 · B3 IABD · Collège de Paris Supérieur · 2025/2026
+### Projet 8 ·  · 2025/2026
 
 ---
 
